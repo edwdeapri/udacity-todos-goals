@@ -1,6 +1,6 @@
-# Todos/Goals - A Polling Game App built with React
+# Todos/Goals - A Todo and Goals List App built with React
 
-Todos/Goals is a polling game application built with React for Udacity's React Nanodegree Program - React & Redux.
+Todos/Goals is a todo and goals list application built with React for Udacity's React Nanodegree Program - React & Redux.
 
 ## Getting Started
 

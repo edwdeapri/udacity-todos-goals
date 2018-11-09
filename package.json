@@ -2,7 +2,7 @@
   "name": "todos-goals-an-udacity-application",
   "version": "1.0.0",
   "description": "This is a React/Redux application built for Udacity's Todos/Goals project under the React & Redux module.",
-  "keywords": ["react", "javascript", "polling"],
+  "keywords": [],
   "license": "MIT",
   "author": "Edward Pritchard <edward.d.pritchard@gmail.com> (https://ethemcreative.com)",
   "main": "src/index.js",
