@@ -1,0 +1,30 @@
+{
+  "name": "todos-goals-an-udacity-application",
+  "version": "1.0.0",
+  "description": "This is a React/Redux application built for Udacity's Todos/Goals project under the React & Redux module.",
+  "keywords": ["react", "javascript", "polling"],
+  "license": "MIT",
+  "author": "Edward Pritchard <edward.d.pritchard@gmail.com> (https://ethemcreative.com)",
+  "main": "src/index.js",
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwdeapri/udacity-todos-goals.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "goals-todos-api": "1.0.0",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {}
+}
