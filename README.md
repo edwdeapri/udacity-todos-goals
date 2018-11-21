@@ -2,6 +2,11 @@
 
 Todos/Goals is a todo and goals list application built with React for Udacity's React Nanodegree Program - React & Redux.
 
+[Checkout this live demo](https://k09nl6j6p7.codesandbox.io/) of the Todos/Goals app. Once the simulator has launched, follow these instructions:
+
+1. You can Add, Crossout or Delete a Todo.
+2. You can Add or Delete a Goal.
+
 ## Getting Started
 
 These instructions will get you a copy of the Todos/Goals application up and running on your local environment for development and testing purposes.
